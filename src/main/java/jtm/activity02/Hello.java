@@ -5,3 +5,5 @@ public class Hello {
         System.out.println("Hello world!");
     }
 }
+
+//pamainiit kaut ko, lai paarbaudiitu, kaa tas paraadaas GitHub
